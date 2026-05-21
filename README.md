@@ -16,9 +16,9 @@
     AI agents that turn local business leads into live website mockups and personalized outreach.
     <br />
     <br />
-    <a href="https://github.com/aryanbcode/santaclaws">View Repository</a>
+    <a href="https://github.com/aryanbhcode/santaclaws">View Repository</a>
     &middot;
-    <a href="https://github.com/aryanbcode/santaclaws/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/aryanbhcode/santaclaws/issues/new?labels=bug">Report Bug</a>
     &middot;
     <a href="https://github.com/aryanbhcode/santaclaws/issues/new?labels=enhancement">Request Feature</a>
   </p>
@@ -251,7 +251,7 @@ Useful docs:
 Clone the repo:
 
 ```bash
-git clone https://github.com/aryanbcode/santaclaws.git mainstreet
+git clone https://github.com/aryanbhcode/santaclaws.git mainstreet
 cd mainstreet
 ```
 
