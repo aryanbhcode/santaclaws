@@ -519,7 +519,7 @@ Thanks to the NemoClaw, Nemotron, Supabase, Vercel, Apify, Discord, and Brev eco
 [issues-url]: https://github.com/aryanbhcode/santaclaws/issues
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: [https://www.linkedin.com/in/parthmdoshi/](https://www.linkedin.com/in/aryan-bhatia-828925239/)
+[linkedin-url]: [https://www.linkedin.com/in/aryan-bhatia-828925239/](https://www.linkedin.com/in/aryan-bhatia-828925239/)
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
 [github-url]: https://github.com/aryanbhcode
 
