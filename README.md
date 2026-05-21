@@ -16,11 +16,11 @@
     AI agents that turn local business leads into live website mockups and personalized outreach.
     <br />
     <br />
-    <a href="https://github.com/PartyD1/santaclaws">View Repository</a>
+    <a href="https://github.com/aryanbcode/santaclaws">View Repository</a>
     &middot;
-    <a href="https://github.com/PartyD1/santaclaws/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/aryanbcode/santaclaws/issues/new?labels=bug">Report Bug</a>
     &middot;
-    <a href="https://github.com/PartyD1/santaclaws/issues/new?labels=enhancement">Request Feature</a>
+    <a href="https://github.com/aryanbhcode/santaclaws/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
 
@@ -251,7 +251,7 @@ Useful docs:
 Clone the repo:
 
 ```bash
-git clone https://github.com/PartyD1/santaclaws.git mainstreet
+git clone https://github.com/aryanbcode/santaclaws.git mainstreet
 cd mainstreet
 ```
 
@@ -488,12 +488,12 @@ Private hackathon project, not licensed for external use.
 <!-- CONTACT -->
 ## Contact
 
-**Parth Doshi**
+**Aryan Bhatia**
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
-Project: [https://github.com/PartyD1/santaclaws](https://github.com/PartyD1/santaclaws)
+Project: [https://github.com/aryanbhcode/santaclaws](https://github.com/aryanbhcode/santaclaws)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -511,17 +511,17 @@ Thanks to the NemoClaw, Nemotron, Supabase, Vercel, Apify, Discord, and Brev eco
 ---
 
 <!-- MARKDOWN LINKS -->
-[contributors-shield]: https://img.shields.io/github/contributors/PartyD1/santaclaws.svg?style=for-the-badge
-[contributors-url]: https://github.com/PartyD1/santaclaws/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/PartyD1/santaclaws.svg?style=for-the-badge
-[stars-url]: https://github.com/PartyD1/santaclaws/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PartyD1/santaclaws.svg?style=for-the-badge
-[issues-url]: https://github.com/PartyD1/santaclaws/issues
+[contributors-shield]: https://img.shields.io/github/contributors/aryanbhcode/santaclaws.svg?style=for-the-badge
+[contributors-url]: https://github.com/aryanbhcode/santaclaws/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/aryanbhcode/santaclaws.svg?style=for-the-badge
+[stars-url]: https://github.com/aryanbhcode/santaclaws/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aryanbhcode/santaclaws.svg?style=for-the-badge
+[issues-url]: https://github.com/aryanbhcode/santaclaws/issues
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/parthmdoshi/
+[linkedin-url]: [https://www.linkedin.com/in/parthmdoshi/](https://www.linkedin.com/in/aryan-bhatia-828925239/)
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
-[github-url]: https://github.com/PartyD1
+[github-url]: https://github.com/aryanbhcode
 
 [Next.js-badge]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
